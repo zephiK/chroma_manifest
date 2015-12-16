@@ -19,9 +19,13 @@ Build command is
 Supported Devices
 
    Nexus 4  - mako
+
    Nexus 5  - hammerhead
+
    Nexus 5X - bullhead
+
    Nexus 6  - shamu
+
    Nexus 6P - angler
 
 
