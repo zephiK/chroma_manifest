@@ -29,7 +29,7 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
-  <project path="device/lge/bullhead" name="device/lge/bullhead" groups="device,bullhead" />
+  <project path="device/lge/bullhead" name="device/lge/bullhead" groups="device,bullhead" remote="chroma" revision="mm6.0" />
   <project path="device/lge/bullhead-kernel" name="device/lge/bullhead-kernel" groups="device,bullhead" />
   <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="chroma" revision="mm6.0" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" />
