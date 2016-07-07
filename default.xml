@@ -8,7 +8,7 @@
            fetch="https://github.com/zephik/" /> 
   <remote name="cm"
            fetch="https://github.com/cyanogenmod/" /> 
-  <default revision="refs/tags/android-6.0.1_r45"
+  <default revision="refs/tags/android-6.0.1_r54"
            remote="aosp"
            sync-j="4" />
 
