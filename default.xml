@@ -32,6 +32,8 @@
   <project path="device/lge/bullhead" name="android_device_lge_bullhead" groups="device,bullhead" remote="chroma" revision="mm6.0" />
   <project path="device/lge/bullhead-kernel" name="device/lge/bullhead-kernel" groups="device,bullhead" />
   <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="chroma" revision="mm6.0" />
+  <project path="device/lge/mako" name="device_lge_mako" remote="chroma" revision="mm6.0" />
+  <project path="device/lge/mako-kernel" name="device_lge_mako-kernel" remote="chroma" revision="mm" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
